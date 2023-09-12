@@ -1,4 +1,3 @@
-[![MasterHead](https://media.istockphoto.com/id/1480239160/photo/an-analyst-uses-a-computer-and-dashboard-for-data-business-analysis-and-data-management.jpg?s=612x612&w=is&k=20&c=IsHMXWcEG0oetlrpFEjKEIWDgxYxVkCn-2rNYt4eGtk=)
 <h1 align="center">Hi 👋, I'm Nikhil Sawhney</h1>
 <h3 align="center">Expert in Exploratory Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
