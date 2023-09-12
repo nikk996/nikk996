@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sawhney</h1>
-<h3 align="center">Expert in Exploratory Data Analysis</h3>
+<h3 align="center">A Dedicated Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikk996&label=Profile%20views&color=0e75b6&style=flat" alt="nikk996" /> </p>
@@ -31,9 +31,3 @@
 <a href="https://kaggle.com/https://www.kaggle.com/nikhilsawhney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nikhilsawhney" height="30" width="40" /></a>
 <a href="https://medium.com/@nikk996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikk996" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikk996&show_icons=true&locale=en&layout=compact" alt="nikk996" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikk996&show_icons=true&locale=en" alt="nikk996" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikk996&" alt="nikk996" /></p>
