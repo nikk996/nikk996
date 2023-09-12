@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nikhilsawhney96@gmail.com**
 
-- ⚡ Fun fact **I am a Ambivert**
+- ⚡ Fun fact **I am an Ambivert**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
