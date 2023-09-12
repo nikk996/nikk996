@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **more in Data Analytics**
 
-- I love using tools **like Power BI, Tableaue, SQL and Excel to convey my analysis.**
+- 👨‍💻I love using tools **like Power BI, Tableaue, SQL and Excel to convey my analysis.**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/nksawhney](https://www.datascienceportfol.io/nksawhney)
 
